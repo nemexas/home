@@ -4,11 +4,11 @@
 2. To
 3. Diuna
 
--Lublin
--Warszawa
--Kraków
--Gniezno
--Gdynia
+- Lublin
+- Warszawa
+- Kraków
+- Gniezno
+- Gdynia
 
 [Różne języki programowania](https://www.highlightjs.org/static/demo) [Wikipedia o Markdown](https://www.en.wikipedia.org/wiki/Markdown)
 
