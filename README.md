@@ -1,15 +1,20 @@
+Jest oprogramowanie typu *open source* służące do konwertowania dokumentów pomi>
 
-### Kod źródłowy dla różnych języków programowania
+Pod poniższym linkiem można obejrzeć przykłady użycia:
+
+https://pandoc.org/demos.html
+
+Oprogramowanie to można pobrać z spod adresu: https://pandoc.org/installing.html
+
+Jeżei chcemy konwertować do formatu *latex* i *pdf* trzeba doinstalować oprogra>
+
+Gdyby podczas konwersji do formatu pdf pojawił się komunikat o niemożliwości zn>
 
 
-### Tworzenie spisu treści na podstawie nagłówków
+Pod adresem (*http://gitlab.com/mniewins66/templatemn.git*) znajduje się
+przykładowy plik Markdown z którego można wygenerować prezentację w
+formacie *pdf* wykorzystując klasę latexa *beamer*.
 
+W tym celu należy wydać polecenie z poziomu terminala:
 
-## Edytory dedykowane
-
-Pracę nad dokumentami w formacie Markdown(rozszerzenie md) można wykonywać w do>
-
-1. Edytor Typora - https://typora.io/
-2. Visual Studio Code z wtyczką ,,markdown preview''
-
-## Pandoc - system do konwersji dokumentów Markdown do innych formatów
+```$pandoc templateMN.md -t beamer -o prezentacja.pdf```
