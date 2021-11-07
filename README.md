@@ -1,20 +1,23 @@
-Jest oprogramowanie typu *open source* służące do konwertowania dokumentów pomi>
+![](flaga.png)
 
-Pod poniższym linkiem można obejrzeć przykłady użycia:
+1. Pan Lodowego Ogrodu
+2. To
+3. Diuna
 
-https://pandoc.org/demos.html
+  *Lublin
+  *Warszawa
+  *Kraków
+  *Gniezno
+  *Gdynia
 
-Oprogramowanie to można pobrać z spod adresu: https://pandoc.org/installing.html
+[Różne języki programowania](https://www.highlightjs.org/static/demo) [Wikipedia o Markdown](https://www.en.wikipedia.org/wiki/Markdown)
 
-Jeżei chcemy konwertować do formatu *latex* i *pdf* trzeba doinstalować oprogra>
+Zdanie _zawierające_ *różne* ~~tryby~~ style pisania.
 
-Gdyby podczas konwersji do formatu pdf pojawił się komunikat o niemożliwości zn>
+Równanie matematyczne $e^{i\pi}=-1$
 
+## Markdown - definicja
+Język znaczników przeznaczony do formatowania tekstu zaprojektowany przez Johna Grubera i Aarona Swartza. Został stworzony w celu jak najbardziej uproszczonego tworzenia i formatowania tesktu.
 
-Pod adresem (*http://gitlab.com/mniewins66/templatemn.git*) znajduje się
-przykładowy plik Markdown z którego można wygenerować prezentację w
-formacie *pdf* wykorzystując klasę latexa *beamer*.
-
-W tym celu należy wydać polecenie z poziomu terminala:
-
-```$pandoc templateMN.md -t beamer -o prezentacja.pdf```
+### Historia
+W 2002 roku Aaron Swartz stworzył atx. Swartz i John Gruber później pracowali razem nad stworzeniem języka Markdown w 2004 roku, z celem umożliwienia ludziom pisania używając łatwego do odczytu i łatwego do napisania rodzaju tekstu.
