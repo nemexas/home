@@ -4,11 +4,11 @@
 2. To
 3. Diuna
 
-  *Lublin
-  *Warszawa
-  *Kraków
-  *Gniezno
-  *Gdynia
+  -Lublin
+  -Warszawa
+  -Kraków
+  -Gniezno
+  -Gdynia
 
 [Różne języki programowania](https://www.highlightjs.org/static/demo) [Wikipedia o Markdown](https://www.en.wikipedia.org/wiki/Markdown)
 
@@ -21,3 +21,5 @@ Język znaczników przeznaczony do formatowania tekstu zaprojektowany przez John
 
 ### Historia
 W 2002 roku Aaron Swartz stworzył atx. Swartz i John Gruber później pracowali razem nad stworzeniem języka Markdown w 2004 roku, z celem umożliwienia ludziom pisania używając łatwego do odczytu i łatwego do napisania rodzaju tekstu.
+
+
