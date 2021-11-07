@@ -1,11 +1,6 @@
-- Markdown Extra
+efiniowanie list
 
-# Podstawy składni
+Listy numerowane definiujemy wstawiając numery kolejnych pozycji zakończone kro>
 
-Podany link: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet z>
+Listy nienumerowane definiujemy znakami: ** (*,+,-) **
 
-## Definiowanie nagłówków
-
-W tym celu używamy znaków kratki: #
-
-Lewe okno zawiera kod źródłowy -
