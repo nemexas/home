@@ -1,14 +1,16 @@
-# Wstęp
-
-Obecnie powszechnie wykorzystuje się języki ze znacznikami do opisania
-dodatkowych informacji umieszczanych w plikach tekstowych. Z pośród
-najbardziej popularnych można wspomnieć o:
-
-1. **html** - służącym do opisu struktury informacji zawartych na stronach inte>
-
-2. **Tex** (Latex) - poznany na zajęciach język do ,,profesjalnego'' składania >
-
-3. **XML** (*Extensible Markup Language*) - uniwersalnym języki znaczników prze>
-
-
 Przykład kodu html i jego interpretacja w przeglądarce:
+
+```
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8/>
+</head>
+<body>
+<p>Jakiś paragraf tekstu</p>
+</body>
+</html>
+```
+
+Przykład kodu *Latex* i wygenerwoanego pliku w formacie *pdf*
+```
